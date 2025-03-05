@@ -97,7 +97,7 @@ The test script provides 25 diverse test cases covering company statistics, mark
 To run the tests:
 
 ```bash
-python test_qa.py
+poetry run python test.py
 ```
 
 Test results are saved to `qa_test_results.json` with detailed information about each test case, including questions, expected answers, actual system responses, and pass/fail status.
