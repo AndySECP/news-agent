@@ -210,10 +210,13 @@ const App: React.FC = () => {
                                         ) : (
                                             <Box>
                                                 <Box>
-                                                    <Typography sx={{ whiteSpace: 'pre-wrap' }}>{message.content}</Typography>
+                                                    <Typography sx={{ whiteSpace: 'pre-wrap' }}>
+                                                        {message.content}
+                                                    </Typography>
                                                 </Box>
 
-                                                {(message.tool_results?.useful_links?.length || message.tool_results?.quotes?.length) && (
+                                                {/* This is the key change: using Boolean() to prevent "0" from rendering */}
+                                                {Boolean(message.tool_results?.useful_links?.length || message.tool_results?.quotes?.length) && (
                                                     <Box sx={{ mt: 2 }}>
                                                         <Divider sx={{ my: 2 }} />
 
