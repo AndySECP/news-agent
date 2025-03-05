@@ -385,7 +385,7 @@ class AdvancedRAG:
             conversation_messages = self.conversation_manager.get_conversation_messages(
                 conversation_id
             )
-            print(f"conversation_messages: {conversation_messages}")
+            # print(f"conversation_messages: {conversation_messages}")
 
             # Determine query type (just for ticker filtering)
             query_type, additional_info = self._determine_query_type(query)
@@ -530,8 +530,9 @@ class AdvancedRAG:
             You are a financial news assistant that extracts specific information from articles.
             You maintain context across the conversation and understand when a query is a follow-up to previous discussion.
             For follow-up questions, reference relevant parts of previous exchanges and focus on providing new details.
-            If the user asks for information not available in the provided articles, clearly state this limitation.
+            If the user asks for information not available in the provided articles, just cleary say that you don't have information needed to answer the question.
             Your response should be comprehensive and directly answer the user's query based on the search results.
+            Use a professional, concise and informative tone.
         """
 
         # Create the user message with search results
