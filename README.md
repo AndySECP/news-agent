@@ -111,13 +111,14 @@ Test results are saved to `qa_test_results.json` with detailed information about
 5. **Response Generation**: An LLM generates a comprehensive response with relevant sources
 6. **Results Display**: The response, along with useful links and quotes, is displayed to the user
 
-## 🔧 Setup & Installation
+## Setup & Installation
 
 ### Prerequisites
 
 - Python 3.9+
 - Node.js 14+
 - OpenAI API key
+- Make sure you add the `stock_news.json` file in a data folder in the root directory
 
 ### Backend Setup
 
