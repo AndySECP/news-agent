@@ -1,0 +1,155 @@
+{
+  "results": [
+    {
+      "question": "How many paid memberships does Netflix have?",
+      "expected_answer": "302 million",
+      "actual_answer": "Netflix has almost 302 million paid memberships globally.",
+      "is_correct": true
+    },
+    {
+      "question": "What was Netflix's revenue in 2024?",
+      "expected_answer": "39 billion",
+      "actual_answer": "Netflix's revenue in 2024 was $39 billion.",
+      "is_correct": true
+    },
+    {
+      "question": "What is Nvidia's position in AI accelerators market share?",
+      "expected_answer": "84%",
+      "actual_answer": "Nvidia holds a dominant position in the AI accelerators market with an estimated 84% market share according to Susquehanna. This significant market share underscores Nvidia's formidable presence in the AI economy, not only through its well-known graphics processing units (GPUs) but also through complementary hardware like central processing units and networking platforms. Additionally, Morningstar estimates that Nvidia has over 50% market share in networking gear used for generative AI workloads, with expectations for the company to maintain its leadership in this area through at least 2028.",
+      "is_correct": true
+    },
+    {
+      "question": "Who is the CEO of Apple?",
+      "expected_answer": "Tim Cook",
+      "actual_answer": "The CEO of Apple is Tim Cook.",
+      "is_correct": true
+    },
+    {
+      "question": "What was the fourth quarter revenue for Amazon?",
+      "expected_answer": "$28.79 billion",
+      "actual_answer": "Amazon's fourth quarter revenue was $28.79 billion.",
+      "is_correct": true
+    },
+    {
+      "question": "What is the growth rate of Illumina's earnings?",
+      "expected_answer": "13.4%",
+      "actual_answer": "Illumina's long-term expected earnings growth rate is 13.4%. In 2025, Illumina is expected to record earnings growth of 83.3%.",
+      "is_correct": true
+    },
+    {
+      "question": "How much did Intel's fourth quarter sales fall?",
+      "expected_answer": "7%",
+      "actual_answer": "Intel's fourth quarter sales fell 7% year over year to $14.3 billion.",
+      "is_correct": true
+    },
+    {
+      "question": "What company is developing the BioNeMo platform?",
+      "expected_answer": "NVIDIA",
+      "actual_answer": "NVIDIA is developing the BioNeMo platform.",
+      "is_correct": true
+    },
+    {
+      "question": "What is Meta's AI model called?",
+      "expected_answer": "Llama",
+      "actual_answer": "Meta's AI model is called Llama.",
+      "is_correct": true
+    },
+    {
+      "question": "What did GE and AWS unveil last year as part of their partnership?",
+      "expected_answer": "X-ray and MRI models",
+      "actual_answer": "Last year, as part of their partnership, GE and AWS unveiled X-ray and MRI models. This collaboration was highlighted under the scope of a research project, with GE emphasizing that the technology was not yet ready for full-scale deployment.",
+      "is_correct": true
+    },
+    {
+      "question": "What is IBM's partnership with Penn State about?",
+      "expected_answer": "MyResource",
+      "actual_answer": "IBM's partnership with Penn State is about developing an AI virtual assistant named MyResource to foster success for the student body. This initiative aims to improve access to campus services such as academic advising, health and wellness, and financial aid. The project was initiated in response to a need identified by Penn State student leaders and an analysis by the university, which found a similar need for enhanced access to campus resources. The AI-powered assistant, built with IBM's watsonx, a portfolio of AI products, is designed to help students navigate the many resources available to them, increase support, and further advance satisfaction among the student body. The collaboration leverages advancements like generative AI to create a more student-centered experience, remove barriers, improve retention rates, and achieve a sense of belonging for all students by allowing them to navigate the institution seamlessly and intuitively. The assistant is expected to launch in the fall semester and will be available to nearly 90,000 Penn State students.",
+      "is_correct": true
+    },
+    {
+      "question": "What was Apple's operating margin?",
+      "expected_answer": "32%",
+      "actual_answer": "Apple's operating margin is 32%.",
+      "is_correct": true
+    },
+    {
+      "question": "What is the expected CAGR for the live streaming market?",
+      "expected_answer": "16.6%",
+      "actual_answer": "The expected CAGR for the live streaming market is approximately 16.6% over the period from 2024 to 2029.",
+      "is_correct": true
+    },
+    {
+      "question": "What AI chip did AMD create to compete with Nvidia?",
+      "expected_answer": "MI300",
+      "actual_answer": "AMD created the MI300 AI accelerators to compete with Nvidia.",
+      "is_correct": true
+    },
+    {
+      "question": "What was Microsoft's revenue in Q2 2025?",
+      "expected_answer": "69.6 billion",
+      "actual_answer": "Microsoft's revenue in Q2 2025 was $69.6 billion, marking a 12% year-over-year growth.",
+      "is_correct": true
+    },
+    {
+      "question": "Which lager surpassed Bud Light in 2023 as the top selling beer in the U.S.?",
+      "expected_answer": "Modelo Especial",
+      "actual_answer": "Modelo Especial lager surpassed Bud Light in 2023 as the top selling beer in the U.S.",
+      "is_correct": true
+    },
+    {
+      "question": "What percentage of the Fortune 500 is served by CyberArk?",
+      "expected_answer": "50%",
+      "actual_answer": "CyberArk serves more than 50% of the Fortune 500 companies.",
+      "is_correct": true
+    },
+    {
+      "question": "How much did CyberArk's fourth-quarter revenues jump year over year?",
+      "expected_answer": "40.9%",
+      "actual_answer": "CyberArk's fourth-quarter revenues jumped 40.9% year over year.",
+      "is_correct": true
+    },
+    {
+      "question": "How much did Warren Buffett reduce his Apple holdings by?",
+      "expected_answer": "100 million shares",
+      "actual_answer": "Warren Buffett reduced his Apple holdings by 100 million shares, bringing his total ownership down to 300 million shares.",
+      "is_correct": true
+    },
+    {
+      "question": "When has Walmart introduced Express Delivery?",
+      "expected_answer": "April 2021",
+      "actual_answer": "Walmart introduced Express Delivery in April 2021.",
+      "is_correct": true
+    },
+    {
+      "question": "What percentage of global active devices is Apple's installed base?",
+      "expected_answer": "2.35 billion",
+      "actual_answer": "The percentage of global active devices that Apple's installed base represents is not directly provided in the search results. However, as of December 2024, Apple\u2019s installed base of active devices stood at an impressive 2.35 billion.",
+      "is_correct": true
+    },
+    {
+      "question": "What was the global clinical data analytics market valued at in 2023?",
+      "expected_answer": "$15.5 billion",
+      "actual_answer": "The global clinical data analytics market was valued at $15.5 billion in 2023.",
+      "is_correct": true
+    },
+    {
+      "question": "What expected total free cash flow did AMC Networks provide for 2024-2025?",
+      "expected_answer": "550 million",
+      "actual_answer": "AMC Networks provided an expected total free cash flow of approximately $550 million for the 2024-2025 period.",
+      "is_correct": true
+    },
+    {
+      "question": "What is the projected CAGR (Compound Annual Growth Rate) for the smart fleet management market from 2025 to 2034?",
+      "expected_answer": "11.55%",
+      "actual_answer": "The projected CAGR (Compound Annual Growth Rate) for the smart fleet management market from 2025 to 2034 is 11.55%.",
+      "is_correct": true
+    },
+    {
+      "question": "What was the most watched Netflix original series?",
+      "expected_answer": "Squid Game",
+      "actual_answer": "The most watched Netflix original series is \"Squid Game: Season 01.\" It premiered in 2021 and has been viewed 265.2 million times, accumulating 2.2 billion hours of watch time.",
+      "is_correct": true
+    }
+  ],
+  "accuracy": 1.0
+}
