@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "schwab-news-agent"
+version = "0.1.0"
+description = "Agent to get news information about stocks"
+authors = ["Andy Spezzatti <andyspezzatti@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.13"
+fastapi = "^0.115.8"
+tenacity = "^9.0.0"
+openai = "^1.64.0"
+scikit-learn = "^1.6.1"
+numpy = "^2.2.3"
+pydantic-settings = "^2.8.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
